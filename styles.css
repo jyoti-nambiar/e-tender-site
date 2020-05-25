@@ -1,0 +1,77 @@
+body{
+  padding-left: 0;
+  padding-right: 0;
+
+text-align: center;
+background-color: blue;
+
+}
+.middle-container{
+text-align: center;
+margin-top: 0;
+background-color: blue;
+
+}
+
+
+
+
+h1{
+
+  color:white;
+}
+
+
+h3{
+margin:50px auto;
+}
+h3 span{
+  background-color: white;
+}
+.download-btn{
+margin:100px 600px;
+display: inline-block;
+width:200px;
+}
+#fixedbutton {
+  position: fixed;
+  border-radius: 40%;
+height:50px;
+width:150px;
+  right: 5%;
+  bottom: 5%;
+  z-index: 1000;
+  transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+ filter: progid: dximagetransform.microsoft.basicimage(rotation=3);
+  text-align: center;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+.modal-title{
+  text-align: center;
+  display: inline-block;
+}
+.card-body{
+  display: inline-block;
+  vertical-align: top;
+}
+.card-body img{
+display:inline-block;
+width:100px;
+height:100px;
+vertical-align: top;
+}
+.card-text{
+display:inline-block;
+width:50%;
+vertical-align: top;
+}
